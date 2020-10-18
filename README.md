@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julio Denis</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center"Enthusiastic in web development with backend and frontend skills in MERN stack.
+I love make somethings when I'm bored and I give all my love when I write code ❤.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jfdenis" alt="jfdenis" /> </p>
 
-- 🔭 I’m currently working on [WeDeal](https://github.com/platzimaster-wedeal/wefront)
-
-- 🌱 I’m currently learning **Backend with NodeJS**
 
 - 👯 I’m looking to collaborate on **ambitious Projects**
 
