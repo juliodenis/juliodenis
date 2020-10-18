@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julio Denis</h1>
-<h3 align="center"Enthusiastic in web development with backend and frontend skills in MERN stack.
+<h3 align="center">Enthusiastic in web development with backend and frontend skills in MERN stack. <br/>
 I love make somethings when I'm bored and I give all my love when I write code ❤.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jfdenis" alt="jfdenis" /> </p>
