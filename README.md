@@ -7,7 +7,7 @@ I love make somethings when I'm bored and I give all my love when I write code �
 
 - 👯 I’m looking to collaborate on **ambitious Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jfdenis?tab=repositories](https://github.com/jfdenis?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/juliodenis?tab=repositories](https://github.com/jfdenis?tab=repositories)
 
 - 📝 I regulary write articles on [https://medium.com/@julio_denis](https://medium.com/@julio_denis)
 
@@ -28,5 +28,5 @@ I love make somethings when I'm bored and I give all my love when I write code �
 <hr/>
 <div style='display:flex; border:1px solid red; justify-content:center;'>
 
-<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=jfdenis&theme=synthwave&show_icons=true" alt="jfdenis" /></p>
+<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=juliodenis&theme=synthwave&show_icons=true" alt="jfdenis" /></p>
 </div
