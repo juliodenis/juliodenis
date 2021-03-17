@@ -2,19 +2,6 @@
 <h3 align="center">Enthusiastic in web development with backend and frontend skills in MERN stack. <br/>
 I love make somethings when I'm bored and I give all my love when I write code ❤.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jfdenis" alt="jfdenis" /> </p>
-
-
-- 👯 I’m looking to collaborate on **ambitious Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/juliodenis?tab=repositories](https://github.com/jfdenis?tab=repositories)
-
-- 📝 I regulary write articles on [https://medium.com/@julio_denis](https://medium.com/@julio_denis)
-
-- 💬 Ask me about **React, HTML, CSS**
-
-- 📫 How to reach me **julio_denis@live.com**
-<hr/>
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/julio-denis-763721181" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="julio-denis" height="30" width="40" /></a>
