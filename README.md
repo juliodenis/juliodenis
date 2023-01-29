@@ -14,7 +14,7 @@ I'm Julio, a web developer from Mexico.
 
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript
+- 👨‍💻 JavaScript, TypeScript
 - ⚙️ React
 - 👁️ SASS, CSS, Styled Components, Stitches JS
 - 💽 MySQL, SQL, Mongo
