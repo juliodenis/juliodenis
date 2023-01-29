@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/juliodenis/juliodenis/master/name.svg" alt="Julio Denis" />
+  <img src="https://user-images.githubusercontent.com/46461781/215301930-ff94a247-9e1e-463e-b1ee-f9ddcc86bab2.svg" alt="Julio Denis" />
 </h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=React+Web++and+JavaScript+Developer" alt="Typing SVG" /></a>
