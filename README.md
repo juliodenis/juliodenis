@@ -8,7 +8,9 @@
 
 
 ## Hey! 👋
-I'm Julio, a web developer from Mexico.
+I'm Julio Denis
+
+A web developer, self-taught and passionate React developer from Mexico.
 
 - 🧭 Work at [@Konta.com](https://konta.com/)
 
