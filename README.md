@@ -26,3 +26,5 @@ A web developer, self-taught and passionate React developer from Mexico.
 - [juliod#7603](./) on Discord
 - [@juliodenis_](https://twitter.com/juliodenis_) on Twitter
 - [@juliodenz](https://www.instagram.com/juliodenz/) on Instagram
+- julio_denis@live.com on Email
+-
